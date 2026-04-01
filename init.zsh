@@ -23,5 +23,5 @@ p6df::modules::pusher::deps() {
 ######################################################################
 p6df::modules::pusher::profile::mod() {
 
-  p6_return_words 'pusher' "$"
+  p6_return_words 'pusher' '$PUSHER_APP_ID'
 }
