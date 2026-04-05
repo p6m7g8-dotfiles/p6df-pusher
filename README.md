@@ -36,7 +36,7 @@ TODO: Add a short summary of this module.
 ##### p6df-pusher/init.zsh
 
 - `p6df::modules::pusher::deps()`
-- `words pusher $PUSHER_APP_ID = p6df::modules::pusher::profile::mod()`
+- `words pusher = p6df::modules::pusher::profile::mod()`
 
 ## Hierarchy
 

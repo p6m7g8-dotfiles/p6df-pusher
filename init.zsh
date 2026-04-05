@@ -13,10 +13,10 @@ p6df::modules::pusher::deps() {
 ######################################################################
 #<
 #
-# Function: words pusher $PUSHER_APP_ID = p6df::modules::pusher::profile::mod()
+# Function: words pusher = p6df::modules::pusher::profile::mod()
 #
 #  Returns:
-#	words - pusher $PUSHER_APP_ID
+#	words - pusher
 #
 #  Environment:	 PUSHER_APP_ID
 #>
